@@ -1,7 +1,5 @@
 ### Here is what i'm working on! 👋
 
-<!--
-**NatnaelMinineh/NatnaelMinineh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👩‍💻 I'm an Electrical and Computer Engineer from Addis Ababa Science and Technology University(AASTU) 
